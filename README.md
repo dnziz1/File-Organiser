@@ -21,3 +21,10 @@ python file_organiser.py
 # Then enter the directory path you want to organise
 ```
 
+### 2. Empty Folder Cleaner
+Automatically finds empty folders and deletes them.
+
+**Features:**
+- Recursively searches for empty folders
+- Shows list before deletion
+- Asks for confirmation before removing
